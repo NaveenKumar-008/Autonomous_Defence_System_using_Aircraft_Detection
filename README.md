@@ -21,6 +21,7 @@ Software Requirements:
  Operating System	 : Windows / Linux  
 	Simulation Tool  	 : Anaconda with Jupyter Notebook  
 	Language		: Python  
+
 Hardware requirements:  
 
 	Processor   		: Intel i3  
