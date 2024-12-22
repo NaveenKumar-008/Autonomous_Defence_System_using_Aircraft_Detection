@@ -17,13 +17,13 @@ The project will also explore integration with existing aircraft systems, ensuri
 ## Requirements
 <!--List the requirements of the project as shown below-->
 Software Requirements:
- Operating System	 : Windows / Linux
-	Simulation Tool  	 : Anaconda with Jupyter Notebook
-	Language		: Python
-Hardware requirements:
-	Processor   		: Intel i3
-	Hard disk  		: minimum 400 GB
-	RAM         		: minimum 4 GB
+ Operating System	 : Windows / Linux  
+	Simulation Tool  	 : Anaconda with Jupyter Notebook  
+	Language		: Python  
+Hardware requirements:  
+	Processor   		: Intel i3  
+	Hard disk  		: minimum 400 GB  
+	RAM         		: minimum 4 GB  
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
