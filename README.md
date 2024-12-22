@@ -8,11 +8,11 @@ The project will also explore integration with existing aircraft systems, ensuri
 
 ## Features
 <!--List the features of the project as shown below-->
-•	Consistent, simple and extensible API.
-•	Minimal structure - easy to achieve the result without any frills.
-•	It supports multiple platforms and backends.
-•	It is user friendly framework which runs on both CPU and GPU.
-•	Highly scalability of computation.
+•	Consistent, simple and extensible API.  
+•	Minimal structure - easy to achieve the result without any frills.  
+•	It supports multiple platforms and backends.  
+•	It is user friendly framework which runs on both CPU and GPU.  
+•	Highly scalability of computation.  
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
