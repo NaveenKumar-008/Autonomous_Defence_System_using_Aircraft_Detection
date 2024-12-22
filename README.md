@@ -49,5 +49,5 @@ Precision: 94%
 Inferences: Effective predictions,analysis
 
 ## Articles published / References
-1.Deep Convolutional Neural Network-Based Autonomous Drone Navigation K. Amer, M. Samy, M. Shaker and M. ElHelw Center for Informatics Science Nile University Giza, Egypt. k.amer, m.serag, melhelw@nu.edu.eg.
-2.Guidance on the Assurance of Machine Learning in Autonomous Systems (AMLAS)Richard Hawkins,Colin Paterson,Chiara Picardi,YanJia,RaduCalinescu and IbrahimHabli.
+1.Deep Convolutional Neural Network-Based Autonomous Drone Navigation K. Amer, M. Samy, M. Shaker and M. ElHelw Center for Informatics Science Nile University Giza, Egypt. k.amer, m.serag, melhelw@nu.edu.eg.  
+2.Guidance on the Assurance of Machine Learning in Autonomous Systems (AMLAS)Richard Hawkins,Colin Paterson,Chiara Picardi,YanJia,RaduCalinescu and IbrahimHabli.  
