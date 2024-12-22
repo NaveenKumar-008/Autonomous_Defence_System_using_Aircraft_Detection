@@ -39,8 +39,10 @@ Hardware requirements:
 
 ## Results
 <!--List the results of the project as shown below-->
-Accuracy: 93%
-Precision: 94%
+Accuracy: 93%  
+
+Precision: 94%  
+
 Inferences: Effective predictions,analysis
 
 ## Articles published / References
